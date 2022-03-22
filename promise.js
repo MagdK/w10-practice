@@ -33,5 +33,7 @@ showMessageLater("Hello2").then( (result) => {
 
 // Promise-okban bonyolult megirni. A kod sem olyan szep es dogos. 
 
-// Szunetben - hogyan lehetne ezt atalkitani egy kicsit szebb megoldasra - fetch -esen
+// Szunetben - hogyan lehetne ezt atalkitani egy kicsit szebb megoldasra - fetch-esen
+
+
 
