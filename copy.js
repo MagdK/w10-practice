@@ -3,6 +3,36 @@
 Spread operator - nezzuk meg hogyan megy ez
  */
 
+/* 
+const sheeps = ['🐑', '🐑', '🐑'];
+
+// Old way
+const cloneSheeps = sheeps.slice();
+
+// ES6 way
+const cloneSheepsES6 = [...sheeps]; 
+
+
+
+Mutable vs Immutable Data Types
+Mutable:
+
+object
+array
+function
+Immutable:
+
+All primitives are immutable.
+
+string
+number
+boolean
+null
+undefined
+symbol
+#
+*/
+
 // NEW ARRAYs
 const arr1 = [1, 2, 3];
 const arr2 = [4, 5, 6];
