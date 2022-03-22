@@ -59,5 +59,3 @@ Mikor hasznaljunk destructuring-ot, 3-adik milestone - alapvetesei  a react-es k
 const [x, ...y] = arr1;
 console.log("x: ", x); // => x:  8
 console.log("y: ", y); // => y:  [ 6, 3, 4 ]
-
-// Ternary operator
