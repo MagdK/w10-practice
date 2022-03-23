@@ -1,11 +1,9 @@
 // console.log("hello");
-/* Nem bongeszo related a dolog - backend. Nem szabad megijedni, csuszkalo fogalmak.  
-
-Ha hasznaltunk git-et, akkor az is egy felhasznaloi felulet, az FE. 
+/*  Ha hasznaltunk git-et, akkor az is egy felhasznaloi felulet, az FE. 
 
 Ma nem fogjuk megnyitni a bongeszot. 
 3-4 topicon megyunk vegig. 
-Onnaloan is menjunk utana, keressunk ra azokra, amikben bizonytalanok vagyunk. 
+Ora utan is menjunk utana, keressunk ra azokra, amikben bizonytalanok vagyunk. 
 
 
 1. FILTER - lenyeg, hogy kiszur valamit es beletesz bizonyos dolgokat az ujjonnan letrejovo tombbe. 
